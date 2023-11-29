@@ -8,7 +8,7 @@ def strStr(haystack, needle):
     and compares a slice of haystack (of length len(needle)) to needle. If the slice matches needle,
      the function returns the index i where the match occurred. If no match is found, the function returns -1.
     """
-    
+
     if needle == "":
         return 0
 
