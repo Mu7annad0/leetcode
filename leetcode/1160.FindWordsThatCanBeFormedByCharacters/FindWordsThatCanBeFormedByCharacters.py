@@ -30,3 +30,11 @@ def countCharacters(words, chars):
             result += len(word)
 
     return result
+
+
+if __name__ == "__main__":
+    words = ["cat", "bt", "hat", "tree"]
+    chars = "atach"
+
+    print(countCharacters(words, chars))
+    # 6
