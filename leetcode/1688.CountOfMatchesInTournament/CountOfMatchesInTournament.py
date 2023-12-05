@@ -15,6 +15,7 @@ def numberOfMatches(n):
     return total_matches
 
 
+# another solution
 def numberOfMatches2(n):
     return 0 if n <= 1 else int(n - 1)
 
