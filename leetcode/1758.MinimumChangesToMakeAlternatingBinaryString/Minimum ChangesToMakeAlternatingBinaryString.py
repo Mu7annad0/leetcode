@@ -34,4 +34,5 @@ def minOperations(s):
 if __name__ == '__main__':
     s = "1111"
     print(minOperations(s))
+    # 2
     
