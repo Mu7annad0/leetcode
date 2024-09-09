@@ -17,3 +17,4 @@ if __name__ == "__main__":
     k = 3
     s.rotate(nums, k)
     print(nums)
+    # [5, 6, 7, 1, 2, 3, 4]
